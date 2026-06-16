@@ -85,7 +85,7 @@ Identify:
 - ATS keyword match
 
 DO NOT summarize the resume.
-CRITIQUE IT.
+CRITIQUE IT and don't sugarcoat it.
 """
                     },
                     {
